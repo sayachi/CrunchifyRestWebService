@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CrunchifyRestWebService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CrunchifyRestWebService-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CrunchifyRestWebService:war exploded" />
+    </root>
+  </artifact>
+</component>
